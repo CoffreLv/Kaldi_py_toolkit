@@ -1,0 +1,6 @@
+../log/*
+*.gz
+*.wav
+*.zip
+*.mp4
+*.flv

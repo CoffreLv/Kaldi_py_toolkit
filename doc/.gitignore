@@ -1,0 +1,11 @@
+Doc/*
+/Python/python-html/
+/TensorFlow/examples/
+/TensorFlow/Samples/
+/TensorFlow/Tensorflowdoc/
+/TensorFlow/Speech/
+*.gz
+*.wav
+*.zip
+*.mp4
+*.flv
